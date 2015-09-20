@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.kentons.templateapp.MainMenuAfterLogin">
+    <item android:id="@+id/show_google_info" android:title="@string/menu_settings_1"
+        android:orderInCategory="1" app:showAsAction="never" />
+    <item android:id="@+id/show_facebook_info" android:title="@string/menu_settings_2"
+        android:orderInCategory="2" app:showAsAction="never" />
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

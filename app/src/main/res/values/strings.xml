@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">TemplateApp</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="title_text">TemplateApp</string>
+    <string name="menu_settings_1">Show Google Information</string>
+    <string name="menu_settings_2">Show Facebook Information</string>
+    <string name="menu_settings_3">Settings</string>
+    <string name="title_activity_main_menu_after_login">MainMenuAfterLogin</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="facebook_app_id">928164137256439</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_drawer_layout_after_login">DrawerLayoutAfterLogin</string>
+
+    <string name ="drawer_open">Drawer Open</string>
+    <string name ="drawer_close">Drawer Close</string>
+    <string-array name="drawer_list_options">
+        <item>Home</item>
+        <item>Fragment 1</item>
+        <item>Fragment 2</item>
+        <item>Fragment 3</item>
+
+    </string-array>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_share">Share</string>
+    <string name = "home_fragment_text">Home Fragment</string>
+    <string name = "workout_log_fragment_text">Fragment 1</string>
+    <string name = "analytics_fragment_text">Fragment 2</string>
+    <string name = "buy_premium_fragment_text">Fragment 3</string>
+
+    <string name = "logout_menu_string">Logout</string>
+</resources>
